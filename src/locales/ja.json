@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "logo": "Krater",
+    "about": "私について",
+    "certifications": "認証",
+    "experience": "経験",
+    "education": "教育",
+    "tools": "ツール",
+    "contact": "連絡",
+    "projects": "プロジェクト"
+  },
+  "hero": {
+    "title": "こんにちは、デイビッドです<br>",
+    "tagline": "ペンテストと倫理的なハッキングに情熱を持っています",
+    "description": "ペネトレーションテスト、脆弱性分析、攻撃的セキュリティに特化しています。サイバーセキュリティの世界でスキルを常に学び、向上させています。",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "projects": "プロジェクト",
+    "email": "メール"
+  },
+  "about": {
+    "title": "私は誰ですか？",
+    "subtitle": "ジュニア学習者",
+    "description1": "私の名前はデイビッド・シガラン・フローレスです。23歳で、最近ネットワーク情報システム管理（ASIR）の研究とThe Bridgeでのサイバーセキュリティブートキャンプを修了しました。そこで、攻撃的セキュリティと脆弱性分析への関心を発見しました。特にレッドチームの分野で。",
+    "description2": "トレーニング中に、ネットワーク、システム、ペンテスト方法論の強固な基盤を築き、個人的な興味から知識を拡大し続けています。私は責任感のある人物で、学ぶ意欲が強く、新しい環境に迅速に適応できる能力を持っていると考えています。チームワーク、アイデアの共有、成長を可能にする技術的課題に直面することが好きです。",
+    "description3": "専門家から学び、実際の課題に直面し、初日から貢献できる環境でキャリアを始める機会を探しています。私の目標は、徐々に改善を続け、スキルを強化し、攻撃的サイバーセキュリティの世界で優れた専門家になることです。",
+    "readMore": "... 続きを読む",
+    "readLess": "少なく読む"
+  },
+  "sections": {
+    "certifications": "認証とバッジ",
+    "experience": "専門的な経験",
+    "education": "学歴",
+    "tools": "経験："
+  },
+  "certifications": {
+    "expedition": "発行"
+  },
+  "education": {
+    "0": { "title": "義務中等教育（E.S.O）" },
+    "1": { "title": "ホスピタリティと観光の中級学位" },
+    "2": { "title": "S.M.Rに類似した方法論の学習（ネットワークマイクロコンピュータシステム）" },
+    "3": { "title": "ネットワーク情報システム管理（A.S.I.R）" },
+    "4": { "title": "サイバーセキュリティブートキャンプ" }
+  },
+  "experience": {
+    "instruction": "（カードの側面をクリックするか、コントロールを使用してナビゲート）",
+    "professional": {
+      "title": "ALMI学習センター",
+      "subtitle": "専門的なインターンシップ",
+      "period": "2025年2月 – 2025年5月",
+      "intro": "ALMI学習センターでの専門的なインターンシップ中に、Basurtoデイケアセンターのウェブサイトの開発と適応に参加し、要求された機能と技術要件に合わせて調整しました。",
+      "responsibility1": "ウェブサイトの完全なインポートとエクスポート、コンテンツと構造の管理。",
+      "responsibility2": "データベースの作成、設定、および保守。",
+      "responsibility3": "スタッフとユーザーによる正しい使用のためのプラグインの管理と最適化。",
+      "responsibility4": "技術文書の作成と行われた変更の記録。"
+    },
+    "academic": {
+      "title": "学術プロジェクト",
+      "subtitle": "The Bridge & ASIRトレーニング",
+      "period": "2023年 – 2026年",
+      "intro": "サイバーセキュリティとシステム管理に焦点を当てた実践的なプロジェクトの開発。",
+      "project1": {
+        "title": "ペンテストラボ",
+        "item1": "安全なネットワーク環境の設定",
+        "item2": "脆弱性分析",
+        "item3": "制御されたペネトレーションテスト"
+      },
+      "project2": {
+        "title": "システム管理",
+        "item1": "WindowsおよびLinuxサーバーの管理",
+        "item2": "ネットワークサービスの設定",
+        "item3": "セキュリティポリシーの適用"
+      }
+    },
+    "responsibilities": "主な責任",
+    "technologies": "使用された技術"
+  },
+  "tools": {
+    "instruction": "（カードの側面をクリックしてスライド）",
+    "categories": {
+      "0": {
+        "title": "オペレーティングシステム",
+        "items": ["Kali", "Parrot", "Ubuntu && Ubuntu Server", "Win 7", "Win 10", "Win Server", "Zorin", "Tails"]
+      },
+      "1": {
+        "title": "OSINT",
+        "items": ["Google Dorks", "Censys", "Shodan", "SpiderFoot", "FOCA", "Maltego", "HTTrack", "ExifTool"]
+      },
+      "2": {
+        "title": "Webスキャンとファジング",
+        "items": ["Nikto", "Dirb", "DirBuster", "DirSearch", "GoBuster", "Burp Suite", "SQLMap"]
+      },
+      "3": {
+        "title": "ネットワーク分析",
+        "items": ["Nmap", "ARP-Scan", "Ping", "cURL", "Netcat", "Wireshark", "OpenSSL"]
+      },
+      "4": {
+        "title": "スキャンと仮想化",
+        "items": ["Nessus", "Greenbone", "DVWA", "AWS", "VirtualBox"]
+      },
+      "5": {
+        "title": "制御とエクスプロイト",
+        "items": ["Hydra", "John", "Hash-Identifier", "Decode", "Metasploit", "Bash", "MySQL"]
+      }
+    }
+  },
+  "buttons": {
+    "prev": "‹",
+    "next": "›"
+  },
+  "modals": {
+    "click_to_enlarge": "クリックして拡大",
+    "email_copied": "📋 メールがクリップボードにコピーされました",
+    "close_image": "画像を閉じる"
+  },
+  "footer": {
+    "copyright": "© [YEAR] デイビッド・シガラン。全著作権所有。"
+  }
+}

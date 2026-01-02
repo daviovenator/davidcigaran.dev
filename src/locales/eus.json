@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "logo": "Krater",
+    "about": "Niri buruz",
+    "certifications": "Ziurtagiriak",
+    "experience": "Esperientzia",
+    "education": "Hezkuntza",
+    "tools": "Tresnak",
+    "contact": "Kontaktua",
+    "projects": "Proiektuak"
+  },
+  "hero": {
+    "title": "Kaixo, David naiz<br>",
+    "tagline": "Pentesting eta hackeo etikozale",
+    "description": "Penetrazio probetan, ahultasun analisian eta segurtasun ofentsiboan espezializatua. Zibersegurtasun munduan nire trebetasunak etengabe ikasten eta hobetzen.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "projects": "Proiektuak",
+    "email": "Email"
+  },
+  "about": {
+    "title": "Nor naiz?",
+    "subtitle": "Ikasle juniorra",
+    "description1": "Nire izena David Cigarán Flores da, 23 urte ditut eta azkenaldian bukatu dut Sareetako Informazio Sistemetako Administrazioa (ASIR) ikasketak eta The Bridgen Zibersegurtasun Bootcampa, non segurtasun ofentsiboarekiko eta ahultasun analisiarekiko gustua aurkitu nuen, zehazkiago Red Team arloan.",
+    "description2": "Nire prestakuntzan oinarri sendoa garatu dut sareetan, sistemetan eta pentesting metodologietan, eta nire ezaguerak zabaltzen jarraitzen dut interes pertsonalagatik. Pertsona erantzuletzat jotzen dut, ikasteko gogo handikoa eta inguru berrietara azkar egokitzeko gaitasuna duena. Taldean lan egitea, ideiak partekatzea eta haztea ahalbidetzen didaten erronka teknikoak aurre egitea gustatzen zait.",
+    "description3": "Aukera bat bilatzen dut nire karrera inguru batean hasteko non adituegandik ikas dezaketen, erronka errealak aurre egin eta lehen egunean bertan ekarpena egin dezaketen. Nire helburua pixkanaka hobetzen jarraitzea da, nire trebetasunak indartu eta zibersegurtasun ofentsiboaren munduko profesional ona izatea.",
+    "readMore": "... Irakurri gehiago",
+    "readLess": "Irakurri gutxiago"
+  },
+  "sections": {
+    "certifications": "Ziurtagiriak eta Insigniak",
+    "experience": "Esperientzia Profesionala",
+    "education": "Historial Akademikoa",
+    "tools": "Esperientzia:"
+  },
+  "certifications": {
+    "expedition": "Espedizioa"
+  },
+  "education": {
+    "0": { "title": "Bigarren Hezkuntza (E.S.O)" },
+    "1": { "title": "Erdiko Maila Ostalaritzan eta Turismoan" },
+    "2": { "title": "S.M.R antzeko metodologien ikaskuntza (Sareetako Mikroinformatika Sistemak)" },
+    "3": { "title": "Sareetako Informazio Sistemetako Administrazioa (A.S.I.R)" },
+    "4": { "title": "Zibersegurtasun Bootcampa" }
+  },
+  "experience": {
+    "instruction": "(Egin klik txartelaren aldeetan edo erabili kontrolak nabigatzeko)",
+    "professional": {
+      "title": "ALMI Ikasketa Zentroa",
+      "subtitle": "Praktika Profesionalak",
+      "period": "Otsaila 2025 – Maiatza 2025",
+      "intro": "ALMI Ikasketa Zentroan egin nituen praktika profesionaletan, Basurtuko Eguneko Zentroaren webgunearen garapenean eta egokitzean parte hartu nuen, eskatutako eskakizun funtzional eta teknikoak betez.",
+      "responsibility1": "Webgunearen inportazio eta esportazio osoa, edukia eta egitura kudeatuz.",
+      "responsibility2": "Datu-baseen sorrera, konfigurazioa eta mantentzea.",
+      "responsibility3": "Pluginen kudeaketa eta optimizatzea langile eta erabiltzaileen erabilera zuzena bermatzeko.",
+      "responsibility4": "Dokumentazio teknikoaren prestakuntza eta egindako aldaketen erregistroa."
+    },
+    "academic": {
+      "title": "Proiektu Akademikoak",
+      "subtitle": "The Bridge & ASIR Prestakuntza",
+      "period": "2023 – 2026",
+      "intro": "Zibersegurtasunean eta sistema administrazioa sisteman oinarritutako proiektu praktikoak garatzea.",
+      "project1": {
+        "title": "Pentesting Laborategiak",
+        "item1": "Sare inguru seguruen konfigurazioa",
+        "item2": "Ahultasun analisia",
+        "item3": "Kontrolatutako penetrazio probak"
+      },
+      "project2": {
+        "title": "Sistema Administrazioa",
+        "item1": "Windows eta Linux zerbitzarien kudeaketa",
+        "item2": "Sare zerbitzuen konfigurazioa",
+        "item3": "Segurtasun politiken aplikazioa"
+      }
+    },
+    "responsibilities": "Erantzukizun nagusiak",
+    "technologies": "Erabilitako teknologiak"
+  },
+  "tools": {
+    "instruction": "(Egin klik txartelaren aldeetan irristatzeko)",
+    "categories": {
+      "0": {
+        "title": "Sistema eragileak",
+        "items": ["Kali", "Parrot", "Ubuntu && Ubuntu Server", "Win 7", "Win 10", "Win Server", "Zorin", "Tails"]
+      },
+      "1": {
+        "title": "OSINT",
+        "items": ["Google Dorks", "Censys", "Shodan", "SpiderFoot", "FOCA", "Maltego", "HTTrack", "ExifTool"]
+      },
+      "2": {
+        "title": "Web Eskaneaketa eta Fuzzing",
+        "items": ["Nikto", "Dirb", "DirBuster", "DirSearch", "GoBuster", "Burp Suite", "SQLMap"]
+      },
+      "3": {
+        "title": "Sare Analisia",
+        "items": ["Nmap", "ARP-Scan", "Ping", "cURL", "Netcat", "Wireshark", "OpenSSL"]
+      },
+      "4": {
+        "title": "Eskaneaketa eta Birtualizazioa",
+        "items": ["Nessus", "Greenbone", "DVWA", "AWS", "VirtualBox"]
+      },
+      "5": {
+        "title": "Kontrola eta Exploitatzea",
+        "items": ["Hydra", "John", "Hash-Identifier", "Decode", "Metasploit", "Bash", "MySQL"]
+      }
+    }
+  },
+  "buttons": {
+    "prev": "‹",
+    "next": "›"
+  },
+  "modals": {
+    "click_to_enlarge": "Handitzeko klik egin",
+    "email_copied": "📋 Emaila arbelean kopiatuta",
+    "close_image": "Irudia itxi"
+  },
+  "footer": {
+    "copyright": "© [YEAR] David Cigarán. Eskubide guztiak erreserbatuta."
+  }
+}

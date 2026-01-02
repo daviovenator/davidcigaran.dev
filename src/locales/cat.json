@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "logo": "Krater",
+    "about": "Sobre mi",
+    "certifications": "Certificacions",
+    "experience": "Experiència",
+    "education": "Educació",
+    "tools": "Eines",
+    "contact": "Contacte",
+    "projects": "Projectes"
+  },
+  "hero": {
+    "title": "Hola, sóc David<br>",
+    "tagline": "Apassionat pel pentesting i l'ètic hacking",
+    "description": "Especialitzat en proves de penetració, anàlisi de vulnerabilitats i seguretat ofensiva. Aprenent i millorant constantment les meves habilitats en el món de la ciberseguretat.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "projects": "Projectes",
+    "email": "Correu"
+  },
+  "about": {
+    "title": "Qui sóc?",
+    "subtitle": "Aprenent junior",
+    "description1": "Em dic David Cigarán Flores, tinc 23 anys i recentment he finalitzat els meus estudis en Administració de Sistemes Informàtics en Xarxa (ASIR) i el bootcamp de Ciberseguretat a The Bridge, on vaig descobrir el meu gust per la seguretat ofensiva i l'anàlisi de vulnerabilitats, més específicament en l'àmbit del Red Team.",
+    "description2": "Durant la meva formació he desenvolupat una base sòlida en xarxes, sistemes i metodologies de pentesting, i segueixo ampliant els meus coneixements per interès propi. Em considero una persona responsable, amb moltes ganes d'aprendre i amb la capacitat d'adaptar-me ràpidament a nous entorns. Gaudeixo treballant en equip, compartint idees i enfrontant reptes tècnics que em permetin créixer.",
+    "description3": "Busco una oportunitat per iniciar la meva carrera en un entorn on pugui aprendre d'experts, enfrontar desafiaments reals i contribuir des del primer dia. El meu objectiu és seguir millorant poc a poc, reforçar les meves habilitats i arribar a ser un bon professional en el món de la ciberseguretat ofensiva.",
+    "readMore": "... Llegeix més",
+    "readLess": "Llegeix menys"
+  },
+  "sections": {
+    "certifications": "Certificacions i Insígnies",
+    "experience": "Experiència Professional",
+    "education": "Historial Acadèmic",
+    "tools": "Experiència en:"
+  },
+  "certifications": {
+    "expedition": "Expedició"
+  },
+  "education": {
+    "0": { "title": "Educació Secundària Obligatòria (E.S.O)" },
+    "1": { "title": "Grau Mitjà en Hostaleria i Turisme" },
+    "2": { "title": "Aprenentatge de metodologies semblants a S.M.R (Sistemes Microinformàtics en Xarxa)" },
+    "3": { "title": "Administració de Sistemes Informàtics en Xarxa (A.S.I.R)" },
+    "4": { "title": "Bootcamp de Ciberseguretat" }
+  },
+  "experience": {
+    "instruction": "(Fes clic als costats de la targeta o utilitza els controls per navegar)",
+    "professional": {
+      "title": "Centre d'Estudis ALMI",
+      "subtitle": "Pràctiques Professionals",
+      "period": "Febrer 2025 – Maig 2025",
+      "intro": "Durant les meves pràctiques professionals al Centre d'Estudis ALMI, vaig participar en el desenvolupament i adaptació de la pàgina web del Centre de Dia de Basurto, ajustant-la als requisits funcionals i tècnics sol·licitats.",
+      "responsibility1": "Importació i exportació completa del lloc web, gestionant contingut i estructura.",
+      "responsibility2": "Creació, configuració i manteniment de bases de dades.",
+      "responsibility3": "Gestió i optimització de connectors per a l'ús correcte del personal i usuaris.",
+      "responsibility4": "Elaboració de documentació tècnica i registre de canvis realitzats."
+    },
+    "academic": {
+      "title": "Projectes Acadèmics",
+      "subtitle": "The Bridge & Formació ASIR",
+      "period": "2023 – 2026",
+      "intro": "Desenvolupament de projectes pràctics enfocats a ciberseguretat i administració de sistemes.",
+      "project1": {
+        "title": "Laboratoris de Pentesting",
+        "item1": "Configuració d'entorns de xarxa segurs",
+        "item2": "Anàlisi de vulnerabilitats",
+        "item3": "Proves de penetració controlades"
+      },
+      "project2": {
+        "title": "Administració de Sistemes",
+        "item1": "Gestió de servidors Windows i Linux",
+        "item2": "Configuració de serveis de xarxa",
+        "item3": "Aplicació de polítiques de seguretat"
+      }
+    },
+    "responsibilities": "Principals responsabilitats",
+    "technologies": "Tecnologies utilitzades"
+  },
+  "tools": {
+    "instruction": "(Fes clic als costats de la targeta per lliscar)",
+    "categories": {
+      "0": {
+        "title": "Sistemes Operatius",
+        "items": ["Kali", "Parrot", "Ubuntu && Ubuntu Server", "Win 7", "Win 10", "Win Server", "Zorin", "Tails"]
+      },
+      "1": {
+        "title": "OSINT",
+        "items": ["Google Dorks", "Censys", "Shodan", "SpiderFoot", "FOCA", "Maltego", "HTTrack", "ExifTool"]
+      },
+      "2": {
+        "title": "Escaneig Web i Fuzzing",
+        "items": ["Nikto", "Dirb", "DirBuster", "DirSearch", "GoBuster", "Burp Suite", "SQLMap"]
+      },
+      "3": {
+        "title": "Anàlisi de Xarxa",
+        "items": ["Nmap", "ARP-Scan", "Ping", "cURL", "Netcat", "Wireshark", "OpenSSL"]
+      },
+      "4": {
+        "title": "Escaneig i Virtualització",
+        "items": ["Nessus", "Greenbone", "DVWA", "AWS", "VirtualBox"]
+      },
+      "5": {
+        "title": "Control i Explotació",
+        "items": ["Hydra", "John", "Hash-Identifier", "Decode", "Metasploit", "Bash", "MySQL"]
+      }
+    }
+  },
+  "buttons": {
+    "prev": "‹",
+    "next": "›"
+  },
+  "modals": {
+    "click_to_enlarge": "Clica per ampliar",
+    "email_copied": "📋 Correu copiat al porta-retalls",
+    "close_image": "Tancar imatge"
+  },
+  "footer": {
+    "copyright": "© [YEAR] David Cigarán. Tots els drets reservats."
+  }
+}

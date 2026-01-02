@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "logo": "Krater",
+    "about": "À propos",
+    "certifications": "Certifications",
+    "experience": "Expérience",
+    "education": "Éducation",
+    "tools": "Outils",
+    "contact": "Contact",
+    "projects": "Projets"
+  },
+  "hero": {
+    "title": "Bonjour, je suis David<br>",
+    "tagline": "Passionné par le pentest et le hacking éthique",
+    "description": "Spécialisé dans les tests de pénétration, l'analyse de vulnérabilités et la sécurité offensive. Apprentissage et amélioration constants de mes compétences dans le monde de la cybersécurité.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "projects": "Projets",
+    "email": "Email"
+  },
+  "about": {
+    "title": "Qui suis-je ?",
+    "subtitle": "Apprenti junior",
+    "description1": "Je m'appelle David Cigarán Flores, j'ai 23 ans et j'ai récemment terminé mes études en Administration des Systèmes Informatiques en Réseau (ASIR) et le bootcamp de Cybersécurité à The Bridge, où j'ai découvert mon goût pour la sécurité offensive et l'analyse des vulnérabilités, plus spécifiquement dans le domaine de la Red Team.",
+    "description2": "Pendant ma formation, j'ai développé une base solide en réseaux, systèmes et méthodologies de pentesting, et je continue d'élargir mes connaissances par intérêt personnel. Je me considère comme une personne responsable, très désireuse d'apprendre et capable de s'adapter rapidement à de nouveaux environnements. J'aime travailler en équipe, partager des idées et relever des défis techniques qui me permettent de grandir.",
+    "description3": "Je cherche une opportunité pour commencer ma carrière dans un environnement où je pourrai apprendre auprès d'experts, affronter des défis réels et contribuer dès le premier jour. Mon objectif est de continuer à m'améliorer petit à petit, renforcer mes compétences et devenir un bon professionnel dans le monde de la cybersécurité offensive.",
+    "readMore": "... Lire plus",
+    "readLess": "Lire moins"
+  },
+  "sections": {
+    "certifications": "Certifications et Badges",
+    "experience": "Expérience Professionnelle",
+    "education": "Historique Académique",
+    "tools": "Expérience en :"
+  },
+  "certifications": {
+    "expedition": "Expédition"
+  },
+  "education": {
+    "0": { "title": "Enseignement Secondaire Obligatoire (E.S.O)" },
+    "1": { "title": "Diplôme Moyen en Hôtellerie et Tourisme" },
+    "2": { "title": "Apprentissage de méthodologies similaires au S.M.R (Systèmes Micro-informatiques en Réseaux)" },
+    "3": { "title": "Administration des Systèmes Informatiques en Réseau (A.S.I.R)" },
+    "4": { "title": "Bootcamp de Cybersécurité" }
+  },
+  "experience": {
+    "instruction": "(Cliquez sur les côtés de la carte ou utilisez les contrôles pour naviguer)",
+    "professional": {
+      "title": "Centre d'Études ALMI",
+      "subtitle": "Stages Professionnels",
+      "period": "Février 2025 – Mai 2025",
+      "intro": "Pendant mon stage professionnel au Centre d'Études ALMI, j'ai participé au développement et à l'adaptation du site web du Centre de Jour de Basurto, en l'ajustant aux exigences fonctionnelles et techniques demandées.",
+      "responsibility1": "Importation et exportation complète du site web, gestion du contenu et de la structure.",
+      "responsibility2": "Création, configuration et maintenance de bases de données.",
+      "responsibility3": "Gestion et optimisation des plugins pour une utilisation correcte par le personnel et les utilisateurs.",
+      "responsibility4": "Élaboration de documentation technique et enregistrement des changements effectués."
+    },
+    "academic": {
+      "title": "Projets Académiques",
+      "subtitle": "The Bridge & Formation ASIR",
+      "period": "2023 – 2026",
+      "intro": "Développement de projets pratiques axés sur la cybersécurité et l'administration des systèmes.",
+      "project1": {
+        "title": "Laboratoires de Pentesting",
+        "item1": "Configuration d'environnements réseau sécurisés",
+        "item2": "Analyse de vulnérabilités",
+        "item3": "Tests de pénétration contrôlés"
+      },
+      "project2": {
+        "title": "Administration des Systèmes",
+        "item1": "Gestion des serveurs Windows et Linux",
+        "item2": "Configuration des services réseau",
+        "item3": "Application des politiques de sécurité"
+      }
+    },
+    "responsibilities": "Responsabilités principales",
+    "technologies": "Technologies utilisées"
+  },
+  "tools": {
+    "instruction": "(Cliquez sur les côtés de la carte pour faire glisser)",
+    "categories": {
+      "0": {
+        "title": "Systèmes d'Exploitation",
+        "items": ["Kali", "Parrot", "Ubuntu && Ubuntu Server", "Win 7", "Win 10", "Win Server", "Zorin", "Tails"]
+      },
+      "1": {
+        "title": "OSINT",
+        "items": ["Google Dorks", "Censys", "Shodan", "SpiderFoot", "FOCA", "Maltego", "HTTrack", "ExifTool"]
+      },
+      "2": {
+        "title": "Scan Web et Fuzzing",
+        "items": ["Nikto", "Dirb", "DirBuster", "DirSearch", "GoBuster", "Burp Suite", "SQLMap"]
+      },
+      "3": {
+        "title": "Analyse de Réseau",
+        "items": ["Nmap", "ARP-Scan", "Ping", "cURL", "Netcat", "Wireshark", "OpenSSL"]
+      },
+      "4": {
+        "title": "Scan et Virtualisation",
+        "items": ["Nessus", "Greenbone", "DVWA", "AWS", "VirtualBox"]
+      },
+      "5": {
+        "title": "Contrôle et Exploitation",
+        "items": ["Hydra", "John", "Hash-Identifier", "Decode", "Metasploit", "Bash", "MySQL"]
+      }
+    }
+  },
+  "buttons": {
+    "prev": "‹",
+    "next": "›"
+  },
+  "modals": {
+    "click_to_enlarge": "Cliquer pour agrandir",
+    "email_copied": "📋 Email copié dans le presse-papiers",
+    "close_image": "Fermer l'image"
+  },
+  "footer": {
+    "copyright": "© [YEAR] David Cigarán. Tous droits réservés."
+  }
+}

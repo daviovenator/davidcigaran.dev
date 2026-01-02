@@ -1,0 +1,120 @@
+{
+  "nav": {
+    "logo": "Krater",
+    "about": "Om meg",
+    "certifications": "Sertifiseringer",
+    "experience": "Erfaring",
+    "education": "Utdanning",
+    "tools": "Verktøy",
+    "contact": "Kontakt",
+    "projects": "Prosjekter"
+  },
+  "hero": {
+    "title": "Hei, jeg er David<br>",
+    "tagline": "Passionert om pentesting og etisk hacking",
+    "description": "Spesialisert i penetrasjonstesting, sårbarhetsanalyse og offensiv sikkerhet. Lærer og forbedrer kontinuerlig mine ferdigheter i cybersikkerhetsverdenen.",
+    "linkedin": "LinkedIn",
+    "github": "GitHub",
+    "projects": "Prosjekter",
+    "email": "E-post"
+  },
+  "about": {
+    "title": "Hvem er jeg?",
+    "subtitle": "Juniorlærer",
+    "description1": "Jeg heter David Cigarán Flores, er 23 år gammel og har nylig fullført mine studier i Nettverksinformasjonssystemadministrasjon (ASIR) og Cybersikkerhetsbootcamp ved The Bridge, hvor jeg oppdaget min smak for offensiv sikkerhet og sårbarhetsanalyse, mer spesifikt innenfor Red Team-området.",
+    "description2": "Under min utdanning har jeg utviklet et solid grunnlag i nettverk, systemer og pentesting-metodologier, og jeg fortsetter å utvide min kunnskap av personlig interesse. Jeg betrakter meg selv som et ansvarlig menneske, veldig lærevillig og med evnen til å tilpasse meg raskt til nye miljøer. Jeg liker å jobbe i team, dele ideer og møte tekniske utfordringer som lar meg vokse.",
+    "description3": "Jeg leter etter en mulighet til å starte min karriere i et miljø hvor jeg kan lære av eksperter, møte reelle utfordringer og bidra fra dag en. Målet mitt er å fortsette å forbedre meg litt etter litt, styrke mine ferdigheter og bli en god profesjonell i den offensive cybersikkerhetsverdenen.",
+    "readMore": "... Les mer",
+    "readLess": "Les mindre"
+  },
+  "sections": {
+    "certifications": "Sertifiseringer og Merker",
+    "experience": "Profesjonell Erfaring",
+    "education": "Akademisk Historie",
+    "tools": "Erfaring med:"
+  },
+  "certifications": {
+    "expedition": "Ekspedisjon"
+  },
+  "education": {
+    "0": { "title": "Obligatorisk videregående opplæring (E.S.O)" },
+    "1": { "title": "Mellomnivå i Hotell og Turisme" },
+    "2": { "title": "Læring av lignende metodologier som S.M.R (Mikrodatamaskinsystemer i Nettverk)" },
+    "3": { "title": "Administrasjon av Nettverksinformasjonssystemer (A.S.I.R)" },
+    "4": { "title": "Cybersikkerhetsbootcamp" }
+  },
+  "experience": {
+    "instruction": "(Klikk på sidene av kortet eller bruk kontrollene for å navigere)",
+    "professional": {
+      "title": "ALMI Studiesenter",
+      "subtitle": "Profesjonelle Praksiser",
+      "period": "Februar 2025 – Mai 2025",
+      "intro": "Under min profesjonelle praksis på ALMI Studiesenter deltok jeg i utviklingen og tilpasningen av nettsiden til Basurto Dagsenter, og tilpasset den til de forespurte funksjonelle og tekniske kravene.",
+      "responsibility1": "Fullstendig import og eksport av nettsiden, administrering av innhold og struktur.",
+      "responsibility2": "Opprettelse, konfigurering og vedlikehold av databaser.",
+      "responsibility3": "Administrering og optimalisering av plugins for riktig bruk av personale og brukere.",
+      "responsibility4": "Utarbeidelse av teknisk dokumentasjon og registrering av utførte endringer."
+    },
+    "academic": {
+      "title": "Akademiske Prosjekter",
+      "subtitle": "The Bridge & ASIR Trening",
+      "period": "2023 – 2026",
+      "intro": "Utvikling av praktiske prosjekter fokusert på cybersikkerhet og systemadministrasjon.",
+      "project1": {
+        "title": "Pentesting Laboratorier",
+        "item1": "Konfigurasjon av sikre nettverksmiljøer",
+        "item2": "Sårbarhetsanalyse",
+        "item3": "Kontrollerte penetrasjonstester"
+      },
+      "project2": {
+        "title": "Systemadministrasjon",
+        "item1": "Administrering av Windows og Linux-servere",
+        "item2": "Konfigurasjon av nettverkstjenester",
+        "item3": "Anvendelse av sikkerhetspolitikker"
+      }
+    },
+    "responsibilities": "Hovedansvar",
+    "technologies": "Brukte teknologier"
+  },
+  "tools": {
+    "instruction": "(Klikk på sidene av kortet for å skyve)",
+    "categories": {
+      "0": {
+        "title": "Operativsystemer",
+        "items": ["Kali", "Parrot", "Ubuntu && Ubuntu Server", "Win 7", "Win 10", "Win Server", "Zorin", "Tails"]
+      },
+      "1": {
+        "title": "OSINT",
+        "items": ["Google Dorks", "Censys", "Shodan", "SpiderFoot", "FOCA", "Maltego", "HTTrack", "ExifTool"]
+      },
+      "2": {
+        "title": "Webskanning og Fuzzing",
+        "items": ["Nikto", "Dirb", "DirBuster", "DirSearch", "GoBuster", "Burp Suite", "SQLMap"]
+      },
+      "3": {
+        "title": "Nettverksanalyse",
+        "items": ["Nmap", "ARP-Scan", "Ping", "cURL", "Netcat", "Wireshark", "OpenSSL"]
+      },
+      "4": {
+        "title": "Skanning og Virtualisering",
+        "items": ["Nessus", "Greenbone", "DVWA", "AWS", "VirtualBox"]
+      },
+      "5": {
+        "title": "Kontroll og Utnyttelse",
+        "items": ["Hydra", "John", "Hash-Identifier", "Decode", "Metasploit", "Bash", "MySQL"]
+      }
+    }
+  },
+  "buttons": {
+    "prev": "‹",
+    "next": "›"
+  },
+  "modals": {
+    "click_to_enlarge": "Klikk for å forstørre",
+    "email_copied": "📋 E-post kopiert til utklippstavlen",
+    "close_image": "Lukk bilde"
+  },
+  "footer": {
+    "copyright": "© [YEAR] David Cigarán. Alle rettigheter forbeholdt."
+  }
+}
