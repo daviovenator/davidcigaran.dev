@@ -706,7 +706,7 @@ function App() {
       {showImageModal && (
         <div className="modal-overlay" onClick={() => setShowImageModal(false)}>
           <img 
-            src="/img/kali.png" 
+            src="/img/davv.jpg" 
             alt="Profile ampliada" 
             className="modal-image"
             onClick={(e) => e.stopPropagation()}
